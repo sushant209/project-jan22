@@ -1,0 +1,10 @@
+this is automobile patr list 
+tyer (rear size 3.18 ,front size2.75)
+block
+piston 
+cranck pin 
+cranck loock
+valve 
+valve sele
+spring packing 
+
